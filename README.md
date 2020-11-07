@@ -9,7 +9,11 @@ Dataset repo:
 Final repo:
 
 # How to use:
-Clone, download. Have python 3.8 installed. Run in command prompt,python app.py or python3 app.py
+1.Clone, download.
+2.Have python 3.8 installed. 
+3.Run in command prompt,python app.py or python3 app.py
+
+
 This should lauch the flask app.
 This is a python backend flask website. You draw a constellation with by clicking inside the box. Then click save (green button), this will download the image/constellation into the main directory. To restart the constellation press clear, and the canvas element should be all black.
 
