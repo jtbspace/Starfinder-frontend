@@ -11,7 +11,7 @@ Final repo:
 # How to use:
 1.Clone, download.
 
-2.Have python 3.8 installed. 
+2.Have python 3.8 installed.
 
 3.Run in command prompt,python app.py or python3 app.py
 
